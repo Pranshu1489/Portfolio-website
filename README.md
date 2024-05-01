@@ -1,37 +1,35 @@
 Personal Portfolio README
 Welcome to your personal portfolio! This README file will guide you through the basic setup and initialization steps to get your portfolio up and running smoothly.
 
-Initialization Steps
+## Initialization Steps
 Install Pandas:
-bash
-Copy code
+```bash
 pip install pandas
+```
 Install Flask:
-bash
-Copy code
+```bash
 pip install flask
-Create a Virtual Environment (Optional but Recommended):
-bash
-Copy code
+```
+## Create a Virtual Environment (Optional but Recommended):
+```bash
 python -m venv venv
-Activate the Virtual Environment:
+```
+## Activate the Virtual Environment:
 On Windows:
-bash
-Copy code
+```bash
 .\venv\Scripts\activate
+```
 On macOS/Linux:
-bash
-Copy code
+```bash
 source venv/bin/activate
-Install Required Dependencies:
-bash
-Copy code
-pip install -r requirements.txt
-Running the Application
+```
+
+## Install Required Dependencies:
+
 Run the Flask Application:
-bash
-Copy code
+```bash
 python app.py
-Accessing the Application:
+```
+## Accessing the Application:
 Once your Flask app is running, you should see output indicating that the server is running.
 Open a web browser and go to http://127.0.0.1:5000/ or http://localhost:5000/, and you should see your Flask app running.
