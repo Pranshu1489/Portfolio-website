@@ -1,4 +1,3 @@
-Personal Portfolio README
 Welcome to your personal portfolio! This README file will guide you through the basic setup and initialization steps to get your portfolio up and running smoothly.
 
 ## Initialization Steps
